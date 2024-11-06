@@ -1,2 +1,2 @@
-*.page linguist-detectable=false
-*.cls linguist-detectable=true
+*.page linguist-detectable=visualforce
+*.cls linguist-language=apex
